@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.class
+*.log
+target/
+build/
+
+# Ignore IDE/project config
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

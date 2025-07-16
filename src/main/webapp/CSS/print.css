@@ -1,0 +1,18 @@
+/* print.css */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #registration-container, #registration-container * {
+    visibility: visible;
+  }
+  #registration-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+  .registration-entry {
+    page-break-inside: avoid;
+  }
+}
