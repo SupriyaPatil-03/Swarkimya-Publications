@@ -23,12 +23,15 @@ Swarkimya Publications is a web-based platform designed to support the education
   - Users: View Books Gallery,Handwriting Courses,Counseling Sessions ,add to cart and order books,book counseling sessions and browse handwriting courses and conform them also can give feedback and contact
   - Admins: Manage content Add/Update/Delete Books Gallery,Handwriting Courses,Counseling Sessions and generate reports
 
-## Technologies Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: JSP, Java 
+## 🛠️ Technologies Used
+
+Frontend: HTML, CSS, JavaScript ,JSP (used as View Layer)
+Backend: Java , JSP (used for backend scripting/logic)
 Database: MySQL
-IDE: Eclipse-workspace
+IDE: Eclipse IDE
 Database Tool: MySQL Workbench
+
+
 
 
 
